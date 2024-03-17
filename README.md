@@ -1,1 +1,1 @@
-# portfolio-projects
+#Portfolio project 3 requires Tableau Public to open. An image file of the final Tableau sales dashboard is attached if Tableau Public is not installed on your device. Thank you for your understanding! 
